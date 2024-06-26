@@ -1,0 +1,11 @@
+{
+    "keys": [
+      {
+        "e": "AQAB",
+        "n": "t58wnC2-4UAd4kvZjRRx6Goim8L4A6y0LoZyYWXiFu2TSbHP4E22aluyheX29gwCXT19TW0jTUb9oFavb0OOlU7LOAcVnbOA1v-nk_hNtcXn6w9-qY1wHxPfKecZVQNO0FrFqnFKUvmuz7ik69-aKvks4lG1YylcfXgjged06Q8yBaVECdAlxemOcWmdwxUWgHqOQaLyGhLC0NeJBpL3Ad_6j46Xhi78Yxpdgn-aURdwO8qBG1iVH7HX-e7uEU-heqkSmUIj9KpcBDNdW96D2rXsto0uIHayYC19NQooiRC45FgtRdegvL_Y4c-sKmgWhZ9hW_upis7zBVEc3CFjUQs",
+        "kid": "bs_revolut_integration",
+        "kty": "RSA",
+        "use": "sig"
+      }
+    ]
+  }
